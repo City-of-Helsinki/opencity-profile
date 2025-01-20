@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.21.0](https://github.com/City-of-Helsinki/open-city-profile/compare/open-city-profile-v1.20.1...open-city-profile-v1.21.0) (2025-01-20)
+
+
+### Features
+
+* Add LoginMethodNode.credentialId field ([371582b](https://github.com/City-of-Helsinki/open-city-profile/commit/371582b9a3871b7383797744b6de18dd5bcf3273))
+
+
+### Dependencies
+
+* Bump virtualenv from 20.26.5 to 20.26.6 ([9714d35](https://github.com/City-of-Helsinki/open-city-profile/commit/9714d35c87025f8bea9634a2d5e7192aa027b11a))
+
 ## [1.20.1](https://github.com/City-of-Helsinki/open-city-profile/compare/open-city-profile-v1.20.0...open-city-profile-v1.20.1) (2024-12-12)
 
 
